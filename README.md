@@ -1,2 +1,3 @@
 # missioncom
-Placeholder repo for the missioncom project
+
+Placeholder package. The `missioncom` name is reserved for a future project.
